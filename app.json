@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Slainted",
-    "slug": "Slainted",
+    "name": "Template-ts-expo-amplify",
+    "slug": "Template-ts-expo-amplify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
